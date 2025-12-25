@@ -1,4 +1,4 @@
-# Functions in Python: Modulo Calculator
+# Functions in Python: sum,subtraction and multiplication calculator
 
 ## 🎯 Aim
 Write a python program to define a function that accepts 2 values and return its sum, subtraction and multiplication.
