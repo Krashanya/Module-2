@@ -11,16 +11,7 @@ Write a python program to define a function that accepts 2 values and return its
 5. Call the `result` function with the user-provided values.
 
 ## 🧾 Program
-
-def result(a,b):
-    sum = a+b
-    sub = a-b
-    mul = a*b
-    return f"Sum is {sum}, Sub is {sub}, & Multiply is {mul}"
-
-a = int(input())
-b = int(input())
-print(result(a,b))
+<img width="596" height="189" alt="image" src="https://github.com/user-attachments/assets/33cb8dad-5302-4f41-a006-a71c797a3053" />
 
 ## Output
 <img width="990" height="306" alt="image" src="https://github.com/user-attachments/assets/25c81c40-adba-4df0-8c67-22e620029014" />
